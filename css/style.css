@@ -1,0 +1,14 @@
+#body{
+  background-color: #ff9966;
+}
+#box {
+  border: 1px solid  #0044cc;
+  background-color: #dbdbce;
+  max-width: 400px;
+  padding: 15px;
+}
+hr  {
+	border-top: 1px dotted #0044cc;
+}
+
+
